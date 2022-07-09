@@ -1,0 +1,28 @@
+.card {
+background: #FFFFFF;
+border: 1px solid #E4E4E8;
+border-radius: 4px;
+}
+
+.card_down {
+    display: flex;
+    gap: 5px;
+}
+
+.card_task {
+    font-weight: 700;
+    font-size: 14px;
+    flex: 1;
+    display: flex;
+    padding: 16px;
+    padding-top: 0px;
+}
+
+.card_progress {
+    font-weight: 700;
+    font-size: 14px;
+    flex: 1;
+    display: flex;
+    padding: 16px;
+    padding-top: 0px;
+}
